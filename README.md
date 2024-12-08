@@ -3,6 +3,11 @@
 <p>Information Systems Student</p>
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Miguel-Dias-112&show_icons=true&cache_seconds=23008&theme=dracula">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Dias-112&hide=html,css&&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dracula)  
+<p>
+  <a href="https://github.com/Miguel-Dias-112">
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=Miguel-Dias-112&show_icons=true&cache_seconds=23008&theme=github_light">
+  </a>
+  <a href="https://github.com/gabdumal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Dias-112&hide=html,css&theme=github_light&layout=compact" />
+  </a>
+</p>
